@@ -1,0 +1,83 @@
+.rest {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+.Nav{
+    list-style-type: none;
+    text-align: center;
+    color: black;
+}
+a {
+    color: black;
+}
+p {
+    font-family: cursive;
+    color: black;
+    font-size: larger;
+} 
+.Front{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.About{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.Gym{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.Mom{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+    
+}
+.Fit{
+    max-width: 99%;
+    max-height: 99%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+.LO{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-family: cursive;
+    text-align: center;
+    
+}
+.bloop{
+    text-align: center;
+}
+.bo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.Punk{
+    text-align: center;
+}
+.Yo{
+    text-align: center;
+}
+
+
+
+
+
+
